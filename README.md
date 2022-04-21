@@ -5,7 +5,7 @@
 ## Code grade
 * ![Code Grade](https://api.codiga.io/project/32923/status/svg)
 ## Codacy
-* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/82feddcf6e834d36b4f10682ef9a0ae9)](https://www.codacy.com/gh/PreethiAvvaru13/M2_Ldr_Sensor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PreethiAvvaru13/M2_Ldr_Sensor&amp;utm_campaign=Badge_Grade)
+* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9151a263841a40e18dd259a5a97d69c9)](https://www.codacy.com/gh/PreethiAvvaru/M2_LDR_SENSOR/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PreethiAvvaru/M2_LDR_SENSOR&amp;utm_campaign=Badge_Grade)
 ## Cppcheck Analyse 
 * [![Cppcheck Analyse](https://github.com/PreethiAvvaru/M2_LDR_SENSOR/actions/workflows/Cppcheck_Analyse.yml/badge.svg)](https://github.com/PreethiAvvaru/M2_LDR_SENSOR/actions/workflows/Cppcheck_Analyse.yml)
 ## In Action
