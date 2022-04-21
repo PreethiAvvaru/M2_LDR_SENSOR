@@ -17,9 +17,9 @@ Photo conductivity is used to operate this resistor. When light strikes the devi
 * When a substance absorbs light and increases its electrical conductivity, the number of free electrons and holes increases. When light strikes a semiconductor, it causes the electron to move closer to the band gap.
 * By connecting bias voltage and a resistor in series, the change in the electrical conductivity of the Light dependent resistor may be detected. When light shines on the LDR, its resistance changes, causing the current flow in the circuit to vary as well.
 
-# COMPONENTS AND SUPPLIES :
+# COMPONENTS AND SUPPLIES 
 * ATMega328
-* LDR Sensor
+* LDRsensor
 * Resistor
 * LED's
 * Voltage Source
