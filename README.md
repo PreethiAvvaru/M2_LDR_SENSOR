@@ -1,9 +1,9 @@
 # M2_LDR_SENSOR
 ## BATCHES :
-## Code quality
-* ![Code Quality Score](https://api.codiga.io/project/32867/score/svg)
+## Code quality 
+* ![Code Quality Score](https://api.codiga.io/project/32923/score/svg)
 ## Code grade
-* ![Code Grade](https://api.codiga.io/project/32867/status/svg)
+* ![Code Grade](https://api.codiga.io/project/32923/status/svg)
 ## Codacy
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/82feddcf6e834d36b4f10682ef9a0ae9)](https://www.codacy.com/gh/PreethiAvvaru13/M2_Ldr_Sensor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PreethiAvvaru13/M2_Ldr_Sensor&amp;utm_campaign=Badge_Grade)
 ## Cppcheck Analyse 
