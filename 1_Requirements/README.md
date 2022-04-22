@@ -56,7 +56,7 @@ Photo conductivity is used to operate this resistor. When light strikes the devi
 | ID | Description | Status |
 | ---|:------------|:-------|
 | HL1 | LDR interfacing with ATMega328 which detects the intensity of light | Implemented |
-| HL2 | Speakern | Implemented |
+| HL2 | Speakers | Implemented |
 
 # LOW LEVEL REQUIRMENTS
 | ID | Description | Status |
