@@ -35,7 +35,7 @@ Photo conductivity is used to operate this resistor. When light strikes the devi
 * Cost-effective
  
 # Advantages and Disadvantages :
-# Advantages :
+## Advantages :
 * It's simple to combine with lighting systems like automatic lighting.
 * It is used to reduce energy consumption or manage energy by controlling the brightness level of mobile phones and turning on and off street lights based on the amount of ambient light.
 * Light sensors based on LDR (i.e. photoresistor) technology come in a variety of shapes and sizes.
@@ -45,12 +45,26 @@ Photo conductivity is used to operate this resistor. When light strikes the devi
 * In comparison to photoresistors, phototransistors are extremely quick and deliver rapid output.
 * In comparison to photodiodes, phototransistors generate a lot of current.
 
-# Disadvantages :
+## Disadvantages :
 * LDRs are inherently incorrect and have a long response time (about 10s or 100s of milliseconds).
 * Photoresistor resistance varies continuously (analogue) and is rough in character.
 * Photodiodes, unlike photoresistors, are temperature sensitive and unidirectional.
 * Phototransistors are not able to withstand voltages more than 1000 volts.
 * Surges, spikes, and EM energy can damage phototransistors.
+
+# HIGH LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL1 | LDR interfacing with ATMega328 which detects the intensity of light | Implemented |
+| HL2 | Speakern | Implemented |
+
+# LOW LEVEL REQUIRMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL1_LL1 | Able to detect the light intensity of LDR | Implemented |
+| HL1_LL2 | LDR interfacing with ATMega328 | Implemented |
+| HL2_LL1 | It's varies the light detection, audio will be expected | Implemented |
+| HL2_LL2 | Depending on the light intensity, audio will be changed at every instance | Implemented |
 
 # CHARACTERISTICS OF LDR :
 Photoresistor LDRs are light-dependent devices that have a lower resistance when exposed to light and a higher resistance when exposed to darkness. When a light-dependent resistor is maintained in the dark, it has an extremely high resistance. Dark resistance is the name given to this type of resistance.
