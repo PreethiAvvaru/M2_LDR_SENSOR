@@ -66,3 +66,9 @@ Photoresistor LDRs are light-dependent devices that have a lower resistance when
 ![FLOW DIAGRAM](https://github.com/PreethiAvvaru13/M2_Ldr_Sensor/blob/main/2_Architecture/Flowchart%20Diagram.drawio.png)
 # CIRCUIT DIAGRAM
 ![circuit_diagram](https://user-images.githubusercontent.com/102947832/164380959-98ea1d7d-abc6-4f23-b365-5abd1f0a8aff.png)
+
+# OUTPUTS
+* 1 OFF MODE
+![off_mode](https://user-images.githubusercontent.com/102947832/163999488-190f28b2-3125-452e-9d95-1e566c0da8b4.png)
+* 2 ON MODE
+![on_mode](https://user-images.githubusercontent.com/102947832/163999594-559c0b92-a7cf-447b-802d-856ee7c30d95.png)
