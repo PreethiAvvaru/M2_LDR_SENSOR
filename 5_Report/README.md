@@ -72,3 +72,6 @@ Photoresistor LDRs are light-dependent devices that have a lower resistance when
 ![off_mode](https://user-images.githubusercontent.com/102947832/163999488-190f28b2-3125-452e-9d95-1e566c0da8b4.png)
 * 2 ON MODE
 ![on_mode](https://user-images.githubusercontent.com/102947832/163999594-559c0b92-a7cf-447b-802d-856ee7c30d95.png)
+
+# Schematic Diagram
+![Schematic_Diagram](https://user-images.githubusercontent.com/101699116/164651839-c181b974-7504-48e6-8fe3-2da07e170fe7.png)
