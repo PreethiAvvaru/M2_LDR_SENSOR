@@ -41,3 +41,28 @@ Light-emitting diode (LED) is a widely used standard source of light in electric
 | HL1_LL2 | LDR interfacing with ATMega328 | Implemented |
 | HL2_LL1 | It's varies the light detection, audio will be expected | Implemented |
 | HL2_LL2 | Depending on the light intensity, audio will be changed at every instance | Implemented |
+
+# 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
+* WHO:
+LDR sensor used to detect the variation
+* WHAT:
+To see the output
+* WHEN:
+IT CAN BE USED ANY TIME MOSTLY.
+* WHERE:
+PRESENCE OF NEAR BY OBJECTS
+* HOW:
+EASY TO USE AND ADJUSTED IN A SHORT RANGE.
+
+# SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
+* STRENGTH:
+IT IS LESS IN PRICE.
+* WEAKNESS:
+LIMITED RANGE.
+* OPPORTUNITY:
+INTERNET OF THINGS(IOT).
+* THREATS:
+SENSOR DIS CONNECTION.
+FAILURE OF THE COMPONENTS.
+MORE POWER CONSUMPTION.
+
